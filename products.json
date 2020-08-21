@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "DEVOE",
+      "price": 69,
+      "sex": "men",
+      "color": "white",
+      "image": "@/assets/sneakers_1.png",
+      "tempImage": 1,
+      "description": "We’re all for staying humble, but this shoe is something to brag about. Our most responsible shoe ever is (get ready) crafted with 100% repurposed canvas twill, structured with recycled cotton, padded with algae foam removed from over-populated ecosystems, supported by 100% natural rubber, and laced together with recycled cotton laces. We don’t expand the Royale franchise with just any new shoe."
+    },
+    {
+      "id": 2,
+      "name": "SUEDE",
+      "price": 49,
+      "sex": "men",
+      "color": "black",
+      "image": "@/assets/sneakers_2.png",
+      "tempImage": 2,
+      "description": "The Suede Slip On Wooster is our version of taking the sneaker way back to the old school, when laceless kicks represented the cutting edge, and then giving them a modern, super luxe upgrade. Whether you’re walking, working, or simply kicking it, the versatile and understated Suede Slip On Wooster is going to get you where you need to go. It might even help you feel better about where you are right now. Every great outfit is built from the ground up. Start here."
+    },
+    {
+      "id": 3,
+      "name": "ROYALE",
+      "price": 54,
+      "sex": "men",
+      "color": "white",
+      "image": "@/assets/sneakers_3.png",
+      "tempImage": 3,
+      "description": "You’ll be well equipped for your next adventure (or grocery run) with these military-inspired Royale shoes, made with heavy duty ripstop and super durable premium nubuck. Every great outfit is built from the ground up. Start here."
+    },
+    {
+      "id": 4,
+      "name": "ROYALE HIGH",
+      "price": 79,
+      "sex": "men",
+      "color": "white",
+      "image": "@/assets/sneakers_4.png",
+      "tempImage": 4,
+      "description": "Finally—a hi-top sneaker for the rest of your life. Whether you’re walking, working, or simply kicking it, the versatile and understated Royale High is going to get you where you need to go. It might even help you feel better about where you are right now. Every great outfit is built from the ground up. Start here."
+    },
+    {
+      "id": 5,
+      "name": "GRACE",
+      "price": 49,
+      "sex": "women",
+      "color": "white",
+      "image": "@/assets/sneakers_1.png",
+      "tempImage": 5,
+      "description": "We’re all for staying humble, but this shoe is something to brag about. Our most responsible shoe ever is (get ready) crafted with 100% repurposed canvas twill, structured with recycled cotton, padded with algae foam removed from over-populated ecosystems, supported by 100% natural rubber, and laced together with recycled cotton laces. We don’t expand the Royale franchise with just any new shoe."
+    },
+    {
+      "id": 6,
+      "name": "DEVOE",
+      "price": 59,
+      "sex": "women",
+      "color": "black",
+      "image": "@/assets/sneakers_2.png",
+      "tempImage": 6,
+      "description": "Twice as nice. The Devoe makes a sleek statement with two toned, Italian leather.This collection was crafted at our Portugal factory using solar power and responsibly sourced materials, all while reducing waste."
+    },
+    {
+      "id": 7,
+      "name": "ROYALE GREY",
+      "price": 49,
+      "sex": "women",
+      "color": "white",
+      "image": "@/assets/sneakers_3.png",
+      "tempImage": 7,
+      "description": "Finally—a sporty, eco-friendly sneaker worth wearing! This knit version of our classic Royale model is our most responsible, and fastest-selling shoe to date. It is 100% Vegan, made from recycled plastic, and (wait for it), machine washable. We teamed up with our factory and found a new way to take seven plastic bottles that would have wound up in the ocean and transform them into something that looks awesome on land. Pretty sweet!"
+    },
+    {
+      "id": 8,
+      "name": "DUAL DEVOE",
+      "price": 69,
+      "sex": "women",
+      "color": "white",
+      "image": "@/assets/sneakers_4.png",
+      "tempImage": 8,
+      "description": "Twice as nice. The Devoe makes a sleek statement with two toned, Italian leather.This collection was crafted at our Portugal factory using solar power and responsibly sourced materials, all while reducing waste."
+    }
+  ]
+}
